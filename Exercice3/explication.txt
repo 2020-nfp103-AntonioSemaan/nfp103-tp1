@@ -1,0 +1,1 @@
+l'erreur a lieu lorsqu'un autre Thread essaie à retirer ou ajouter une valeur au compte lorsqu'un autre thread est en train de faire le check si solde est 0.
